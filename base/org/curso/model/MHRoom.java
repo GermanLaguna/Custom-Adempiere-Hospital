@@ -13,6 +13,11 @@ import java.util.Properties;
 public class MHRoom extends X_H_Room {
 
 	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
+	/**
 	 * @param ctx
 	 * @param H_Room_ID
 	 * @param trxName

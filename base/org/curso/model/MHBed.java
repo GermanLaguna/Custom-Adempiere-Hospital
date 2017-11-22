@@ -3,17 +3,11 @@
  */
 package org.curso.model;
 
-import java.sql.PreparedStatement;
 import java.sql.ResultSet;
-import java.sql.Timestamp;
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Properties;
-import java.util.logging.Level;
 
 import org.compiere.model.Query;
-import org.compiere.util.DB;
-import org.compiere.util.Env;
 
 /**
  * @author informatica

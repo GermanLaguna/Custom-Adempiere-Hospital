@@ -9,9 +9,7 @@ import java.sql.Timestamp;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Properties;
-import java.util.logging.Level;
 
-import org.compiere.apps.ADialog;
 import org.compiere.model.Query;
 import org.compiere.util.DB;
 import org.compiere.util.Env;

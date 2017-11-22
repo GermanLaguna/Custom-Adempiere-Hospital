@@ -25,6 +25,11 @@ import java.util.Properties;
 public class MHAffliction extends X_H_Affliction {
 
 	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
+	/**
 	 * *** Constructor de la Clase ***
 	 * @author German Laguna 8 nov. 2017, 15:00:33
 	 * @param ctx

@@ -4,7 +4,6 @@
 package org.curso.process;
 
 import java.sql.Timestamp;
-import java.util.List;
 
 import org.compiere.process.ProcessInfoParameter;
 import org.compiere.process.SvrProcess;
